@@ -1,0 +1,5 @@
+{
+  "name": "CreativeStudioCanvas_v.1.2",
+  "description": "A node-based AI image generation and editing studio utilizing Gemini 2.5 Flash Image models.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,5 @@
+{
+  "name": "AIProductPhoto_v3",
+  "description": "A full-stack AI image editor and generator. Features a multimodal chat interface for generating and editing creative images, characters, and scenes.",
+  "requestFramePermissions": []
+}
